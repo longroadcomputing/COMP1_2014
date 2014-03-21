@@ -1,12 +1,7 @@
 #Task Sheet 1 - Validation Improvements
 
 ##Introduction
-The program this year is based around trying to predict whether the next card in the deck will be **higher** that the current card. You will have to understand both **lists** and **records** and be able to save to and read from files.
-
-##Your exam
-In the COMP1 exam you will be asked questions about the pre-release program you have been provided with an you will also be asked to modify and improve its functionality.
-
-This series of tasks will help you to prepare.
+This series of tasks focuses on validation i.e. ensuring that the values entered by the user are correct and that the interface of the program is user friendly.
 
 ##Task 1 - Improving card selection input
 The function **`GetChoiceFromUser()`** is responsible for asking the user to decide whether the next card is going to be higher than the current card. The user enters either **y** or **n** as their choice.
