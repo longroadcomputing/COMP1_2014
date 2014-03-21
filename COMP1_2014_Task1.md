@@ -1,4 +1,3 @@
-#COMP1 Pre-release Tasks 2014
 #Task Sheet 1 - Validation Improvements
 
 ##Introduction
