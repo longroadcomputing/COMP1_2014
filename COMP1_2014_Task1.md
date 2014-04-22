@@ -28,8 +28,8 @@ When you complete a game you will be asked to add your score to the list of most
 
 ![][2]
 
-1. The user is asked for their anme
-2. If they attempt to leave the name blank they are then prompted repeatedly, until they enter something as their name
+1. The user is asked for their name.
+2. If they attempt to leave the name blank they are then prompted repeatedly, until they enter something as their name.
 
 ###Questions
 **Answer** the following questions:
